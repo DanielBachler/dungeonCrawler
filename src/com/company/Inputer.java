@@ -5,16 +5,19 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class MainWindow extends JFrame{
-    private JButton startButton;
-    private JLabel Map;
-    private JLabel topMessage;
+public class Inputer extends JFrame{
+    private JTextField inputField;
+    private JLabel messageField;
     private JPanel mainPanel;
+    private JButton submitButton;
 
-    public MainWindow() {
-        super();
+    private String message;
+
+    Inputer() {
+        super("Input");
         setContentPane(mainPanel);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        messageField.setText("Input Window");
 
         //Setting default location
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
@@ -24,16 +27,21 @@ public class MainWindow extends JFrame{
         pack();
         setVisible(true);
 
-        //The start button listener
-        startButton.addActionListener(new ActionListener() {
+        //Submit button listener
+        submitButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
+                message = inputField.getText();
+                inputField.setText("");
             }
         });
     }
 
-    public void changeTopMessage(String message) {
-        topMessage.setText(message);
+    public void changeLabel(String message) {
+        messageField.setText(message);
+    }
+
+    public String getInput() {
+        return message;
     }
 }

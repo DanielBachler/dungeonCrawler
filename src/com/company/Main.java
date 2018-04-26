@@ -12,10 +12,17 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-
+        MainWindow window = new MainWindow();
+        play();
     }
 
     public static void play() {
-        System.out.println("");
+        Inputer input = new Inputer();
+        input.changeLabel("Please enter your name");
+        String name;
+        do {
+            name = input.getInput();
+        } while(name != null);
+        System.out.println(name);
     }
 }
