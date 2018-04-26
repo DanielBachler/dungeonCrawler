@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae299a02-1b07-45ac-813d-0ed66bf1c3fb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/redSquare.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StartRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Inputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Inputer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MainWindow.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MainWindow.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MainWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +19,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="357">
+              <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -35,42 +28,24 @@
       <file leaf-file-name="Inputer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="567">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1291#1292#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-                <element signature="e#1181#1182#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1480#1481#0" expanded="true" />
+                <element signature="e#1510#1511#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Inputer.form" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.form">
-          <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
       <file leaf-file-name="MainWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="101">
               <caret line="31" column="99" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
-              <folding>
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-                <element signature="e#1634#1635#0" expanded="true" />
-              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainWindow.form" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.form">
-          <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
       <file leaf-file-name="Room.java" pinned="false" current-in-tab="false">
@@ -87,12 +62,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,9 +99,9 @@
         <option value="$PROJECT_DIR$/src/com/company/StartRoom.java" />
         <option value="$PROJECT_DIR$/src/com/company/MainWindow.form" />
         <option value="$PROJECT_DIR$/src/com/company/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MainWindow.java" />
         <option value="$PROJECT_DIR$/src/com/company/Inputer.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MainWindow.java" />
       </list>
     </option>
   </component>
@@ -143,10 +112,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1937" />
-    <option name="height" value="1067" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1938" />
+    <option name="height" value="1068" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,9 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +147,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +210,8 @@
       <option name="presentableId" value="Default" />
       <updated>1524714672624</updated>
       <workItem from="1524714675996" duration="940000" />
-      <workItem from="1524768489320" duration="3447000" />
+      <workItem from="1524768489320" duration="3496000" />
+      <workItem from="1524775387982" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="Creating file and initializing">
       <created>1524715142631</created>
@@ -257,11 +227,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524761027447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Working on JFrames and getting input from the user to work as intended.">
+      <created>1524772431789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524772431789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4387000" />
+    <option name="totallyTimeSpent" value="4814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -275,14 +252,14 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32827586" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15820312" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -306,7 +283,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating file and initializing" />
     <MESSAGE value="Laying initial framework." />
-    <option name="LAST_COMMIT_MESSAGE" value="Laying initial framework." />
+    <MESSAGE value="Working on JFrames and getting input from the user to work as intended." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on JFrames and getting input from the user to work as intended." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -314,6 +292,53 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="99" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -327,30 +352,16 @@
           <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding>
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -365,12 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -380,9 +385,6 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Room.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -395,12 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -439,56 +435,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Inputer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="567">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1334#1335#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="101">
           <caret line="31" column="99" selection-start-line="31" selection-start-column="99" selection-end-line="31" selection-end-column="99" />
-          <folding>
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="357">
+          <caret line="21" column="79" selection-start-line="21" selection-start-column="79" selection-end-line="21" selection-end-column="79" />
         </state>
       </provider>
     </entry>

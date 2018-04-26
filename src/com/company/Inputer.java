@@ -40,6 +40,8 @@ public class Inputer extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
                 p.setName(inputField.getText());
+                Main.play(p);
+                close();
             }
         });
     }
@@ -47,5 +49,9 @@ public class Inputer extends JFrame{
     //Changes the JLabel to the given message
     public void changeLabel(String message) {
         messageField.setText(message);
+    }
+
+    private void close() {
+        this.dispose();
     }
 }
