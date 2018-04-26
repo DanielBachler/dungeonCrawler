@@ -9,6 +9,9 @@ package com.company;
         Figure out rest of TODO
  */
 
+/**
+ * Main driver class, calls and creates all needed classes for an entire game
+ */
 public class Main {
 
     public static void main(String[] args) {
@@ -17,12 +20,15 @@ public class Main {
     }
 
     public static void play() {
-        Inputer input = new Inputer();
-        input.changeLabel("Please enter your name");
-        String name;
-        do {
-            name = input.getInput();
-        } while(name != null);
-        System.out.println(name);
+        Player thePlayer = createPlayer();
+        System.out.println(thePlayer.getName());
+    }
+
+    //Creates a player
+    public static Player createPlayer() {
+        Player temp = new Player();
+        Inputer input = new Inputer(temp);
+        input.changeLabel("What is your name adventurer?");
+        return temp;
     }
 }
